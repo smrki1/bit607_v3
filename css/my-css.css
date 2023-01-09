@@ -2,8 +2,8 @@
 .logo {float: left;}
 
 h1,h2,h3 { text-align: center;  }
-body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
-body {background-image: url("https://www.publicdomainpictures.net/pictures/330000/velka/greek-restaurant-1585318206WEl.jpg") ; 
+body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif, }
+header {background-image: url("https://www.publicdomainpictures.net/pictures/330000/velka/greek-restaurant-1585318206WEl.jpg") ; 
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;}
